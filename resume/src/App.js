@@ -156,7 +156,7 @@ function App() {
         </div>
 
         <div class="project1">
-       <a href="https://sannith.netlify.app/" target="_blank"> <img class="img" src="https://i.ibb.co/99CqnrF/Screenshot-2.png" alt="Screenshot-2" />
+       <a href="https://zomatofoodapp.netlify.app/" target="_blank"> <img class="img" src="https://i.ibb.co/99CqnrF/Screenshot-2.png" alt="Screenshot-2" />
         <img class="img" src="https://i.ibb.co/Y7KkdSC/Screenshot-5.png" alt="Screenshot-5"  /></a>
         </div>
         <div class="project2">
